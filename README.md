@@ -84,6 +84,6 @@ Confirmed Autopatch automatically created and scoped the Windows quality update,
 
 Used the Autopatch device health report to track update compliance and flagged devices, and drilled into one flagged device to identify the blocking issue.
 
-<img width="800" height="450" alt="Autopatch device health report" src="docs/img/05-device-health.png" />
+<img width="1607" height="509" alt="image" src="https://github.com/user-attachments/assets/4ad63c24-e765-422b-a6a8-40a1d658a1fc" />
 
 *Ref 5: Device health monitoring*
